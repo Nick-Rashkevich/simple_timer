@@ -1,0 +1,1 @@
+*This tutorial is an example of implementing a simple timer in Javascript*
